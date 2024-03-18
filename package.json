@@ -1,0 +1,29 @@
+{
+  "name": "grommailpasha",
+  "version": "1.0.0",
+  "description": "This is a Node.js module for performing various mathematical operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grommailpasha/grommailpasha"
+  },
+  "dependencies": {
+	  "edwardevans": "1.0.0",
+"marikovmailbory-sdk": "1.0.0",
+"loginovy": "1.0.0",
+"ls-v1-func": "1.0.0",
+"carolscott-code": "1.0.0",
+"jakea": "1.0.0",
+    "lodash": "^4.17.21",
+    "is-prime": "^1.1.2"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grommailpasha/grommailpasha/issues"
+  },
+  "homepage": "https://github.com/grommailpasha/grommailpasha#readme"
+}
